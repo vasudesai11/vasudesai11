@@ -13,10 +13,10 @@ From writing Python scripts and designing dashboards, to structuring business pr
 
 <h2>🔍 About Me</h2>
 
-- 👾 <b>Final-year CSE undergrad</b> with a consulting and analytical mindset  
-- 🧠 Comfortable switching between code, business frameworks, and communication  
-- 🛠 Currently applying technical skills to real business use-cases (dashboards, analysis, automation)  
-- ⏱️ Excited by the blend of structured thinking and data-driven storytelling  
+ 👾 <b>Final-year CSE undergrad</b> with a consulting and analytical mindset  
+ 🧠 Comfortable switching between code, business frameworks, and communication  
+ 🛠 Currently applying technical skills to real business use-cases (dashboards, analysis, automation)  
+ ⏱️ Excited by the blend of structured thinking and data-driven storytelling  
 
 ---
 
@@ -38,9 +38,9 @@ MECE · Root Cause Analysis · Business Storytelling
 
 <h2>🌱 Currently Exploring</h2>
 
-- Business intelligence in real-world datasets  
-- Power BI-based storytelling & dashboards  
-- Consulting case prep & real-world structured problem solving  
+ Business intelligence in real-world datasets  
+ Power BI-based storytelling & dashboards  
+ Consulting case prep & real-world structured problem solving  
 
 ---
 
