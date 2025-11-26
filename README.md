@@ -7,7 +7,7 @@
 <h3>🎓 I'm a Computer Science & Engineering student at Symbiosis Institute of Technology (Final Year)</h3>  
 With a strong interest in how <b>data, structure, and strategy</b> come together to solve real-world problems.
 
-From writing Python scripts and designing dashboards, to structuring business problems using consulting tools — I love building things that are not just functional, but impactful.
+From writing Python scripts and designing dashboards, to structuring business problems using consulting tools  I love building things that are not just functional, but impactful.
 
 ---
 
